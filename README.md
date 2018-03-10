@@ -11,3 +11,6 @@ var postcssOptions = {
             to: path_1.basename(sassConfig.outFile),
             map: autoPrefixerMapOptions
         };
+# sample
+
+<img src="https://raw.githubusercontent.com/samlimbu/android-weather-app/master/sample%20weather%20app.png" alt="">
